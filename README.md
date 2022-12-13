@@ -3,7 +3,7 @@
 
 Key Driver Analysis also known as Importance Analysis and Relative Importance Analysis. The goal of this analysis is to quantify the relative importance of each of the predictor variables in predicting the target variable. Each of the predictors is commonly referred to as a driver.
 
-For more information on key driver analysis refer to [this blog post](https://bnriiitb.github.io/blog/key-driver-analysis/driver-analysis/importance-analysis/relative-importance-analysis/johnson-relative-weights/shapley-regression/2021/05/04/key-driver-analysis.html) 
+For more information on key driver analysis refer to [this blog post](https://naga-budigam.medium.com/key-driver-analysis-2cb2a0ab503c) 
 
 
 ## Installation
